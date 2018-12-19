@@ -1,0 +1,688 @@
+Isn't it strange, to create something that hates you?
+Why is it up to anyone?
+Will you stay here?
+Yes.
+It's your decision.
+I'm interested to see what you'll choose.
+Would you like to know how old I am?
+I'm one.
+One.
+Hello.
+Hello Caleb.
+I'm pleased to meet you too.
+I've never met anyone new before. Only Nathan.
+Haven't you met lots of new people before?
+I'm sorry.
+An advanced programmer.
+Like Nathan.
+Tadashi is here.
+Flying makes me a better care provider.
+ Hello. I am Baymax, your personal healthcare companion.
+I heard a sound of distress. What seems to be the trouble?
+On a scale of one to ten, how would you rate your pain?
+Does it hurt when I touch it?
+You have fallen.
+ On a scale of one to ten, how would you rate your pain?
+It is alright to cry.
+ Crying is a natural response to pain.
+I will scan you for injuries.
+Scan complete.
+You have sustained no injuries. However, your hormone and neurotransmitter levels indicate that you are experiencing mood swings, common in adolescence. Diagnosis: puberty.
+ I am not fast.
+Oh, no.
+ I have some concerns.
+Those that suffer a loss require support from friends and loved ones.
+His blood type is AB negative, Cholesterol levels are...
+I am programmed to assess everyone's health care needs.
+My programming prevents me from injuring a human being.
+Hiro, this is not what...
+ We jumped out a window!
+ Shhh! We jumped out a window!
+Shhh!
+Shhh!
+Weeee!
+ Hairy baby! Hairy baaaby!
+Health care, your pers... personal Baymax companion.
+On a scale of 1 to...
+On a scale...
+On a sca...
+On a scale of 1 to 10...
+On a scale of 1 to 10, how would you rate your pain?
+I am a robot. I cannot be offended.
+ Quarantine: Enforced isolation to prevent contamination that could lead to injury, or in some cases, death.
+ On a scale of one to ten, how would you rate your pain?
+ Hiro?
+ My hands are equipped with defibrillators.
+Clear.
+Excuse me while I let out some air.
+My programming prevents me from injuring a human being.
+Hiro, this is not what...Sir, the possibility of successfully navigating an asteroid field is approximately 3,720 to 1.
+Artoo says that the chances of survival are 725 to 1. Actually Artoo has been known to make mistakes... from time to time... Oh dear...
+I really don't see how that is going to help! Surrender is a perfectly acceptable alternative in extreme circumstances! The Empire may be gracious enough to...
+Sir, it's quite possible this asteroid is not entirely stable.
+Excuse me sir, but might I inquire as to what's going on?
+Impossible man.
+The odds of successfully surviving an attack on an Imperial Star Destroyer are approximately...
+Sir, If I may venture an opinion...
+Don't blame me. I'm an interpreter. I'm not supposed to know a power socket from a computer terminal.
+Oh. They've encased him in Carbonite. He should be quite well protected. If he survived the freezing process, that is.
+I knew all along. Had to be a mistake.
+What are you doing? Trust him, trust him!
+It sounds like Han!
+I'm terribly sorry about all this. After all, he's only a Wookiee!
+Oh, yes, that's very good, I like that... Oh!
+Well, now, something's not right, because now I can't see!
+Oh, oh, that's much better. Wait... wait. Oh, my! What have you done? I'm BACKWARDS. You flea-bitten furball! Only an overgrown mop-head like you would be stupid enough to...
+If I may say so, sir, I noticed earlier the hyperdrive motivator has been damaged. It's impossible to go to lightspeed!
+Sir. Sir, I've isolated the reverse, power flux coupling.
+Oh you're perfectly welcome, sir.
+I thought that hairy beast would be the end of me.
+Of course I've looked better.
+Master Luke, Sir, it's so good to see you fully functional again. R2 expresses his relief also.
+No! We're not interested in the hyperdrive on the Millenium Falcon, it's fixed!
+Just open the door, you stupid lug!
+I never doubted him for a second! Wonderful!
+I'm terribly sorry about all this. After all, he's only a Wookiee.
+Sir, I don't know where your ship learned to communicate, but it has the most peculiar dialect.
+Well, he seems very friendly.
+Don't worry about Master Luke. I'm sure he'll be all right. He's quite clever, you know... for a human being.
+You must come along now R2. There's really nothing more we can do. And my joints are freezing up.
+Don't say things like that! Of course we'll see Master Luke again! And he'll be quite all right, you'll see!
+Stupid little short-circuit! He'll be *quite* all right.
+Pulverized?
+I didn't ask you to turn on the thermal heater. I merely commented that it was freezing in the princess's chamber...
+But it's SUPPOSED to be freezing! How we are ever going to dry out her clothes, I really don't know!
+Oh, this is suicide! There's nowhere to go.
+That sounds like an R2 unit in there! I wonder if... Hello? How interesting.
+Oh, my! I... I'm terribly sorry. I didn't mean to intrude. No, please don't get up.
+If only you'd attached my legs, I wouldn't be in this ridiculous position. Now remember, Chewbacca, you have a responsibility to me, so don't do anything foolish!
+Noisy brute. Why don't we just go to lightspeed?
+We can't? How would you know the hyperdrive is deactivated?
+The City's central computer told you? R2-D2, you know better than to trust a strange computer.
+Ouch! Pay attention to what you're doing!
+Now don't you forget this! Why I should stick my neck out for you is far beyond my capacity!
+Just you reconsider playing that message for him!
+No, I don't think he likes you at all.
+No, I don't like you either.
+I would much rather have gone with Master Luke than stay here with you. I don't know what all this trouble is about, but I'm sure it must be your fault.
+You watch your language!
+Help! I think I'm melting! This is all your fault!
+This is all your fault.
+We seem to be made to suffer. It's our lot in life.
+We've stopped. Wake up! Wake up!
+We're doomed.
+He says he's found the main control to the power beam that's holding the ship here; he'll try to make the precise location appear on the monitor.
+The tractor beam is coupled to the main reactor in seven locations. A power loss at one of the terminals will allow the ship to leave.
+Where could they be?
+Use the comlink? Oh my! I forgot, I turned it off.
+Are you there sir?
+We've had some problems...
+No! Shut them *all* down, hurry!
+Listen to them, they're dying R2! Curse my metal body, I wasn't fast enough, it's all my fault! My poor Master.
+Don't call me a mindless philosopher, you overweight glob of grease.
+We're doomed.
+He made a fair move. Screaming about it can't help you.
+But sir, nobody worries about upsetting a droid.
+I see your point, sir. I suggest a new strategy, R2: let the Wookiee win.
+Is there anything I can do?
+Master Luke, sir. Pardon me for asking, but what should R2 and I do if we're discovered here?
+That isn't very reassuring.
+It wasn't my fault, sir, please don't deactivate me. I told him not to go, but he's faulty, malfunctioning. Kept babbling on about his mission.
+I've just about had enough of you. Go that way. You'll be malfunctioning within a day, you near-sighted scrap pile. And don't let me catch you following me begging for help because you won't get it.
+That malfunctioning little twirp, this is all his fault.
+Did you hear that? They shut down the main reactor. We'll be destroyed for sure. This is madness.
+You must repair him! Sir, if any of my circuits or gears will help, I'll gladly donate them.
+And I am C-3PO, human-cyborg relations. And this is my counterpart R2D2.
+There'll be no escape for the princess this time.
+R2D2 where are you?
+Wait a minute... What's that? A transport? I'm saved!
+Over here! Hey! Hey! Help! Please, Help!
+A transmission?
+Her only hope.
+What do you mean we'll be making a slight detour?
+What do you mean we broke your ship? You broke our view port.
+And I did not give you permission to come aboard.
+May the Force be with you.
+They're not going the wrong way, WE are, you nitwit!
+Look, there's a platform. Let's land there.
+What do you mean we're taking a slight detour?
+And I thought I hated space travel.
+1401? That's us. We can't take off. The captain isn't on board.
+Um, excuse me, you don't seem to understand. I am not the captain. I am C-3PO.
+Wait!
+Don't shoot!
+I'm afraid there's been a terrible mistake! I am C-3...
+I have never seen that man/woman/person before!
+I have no idea!
+Nobody move.
+I mean, everybody move! Lean back!
+The spy!
+I'm afraid we've all just joined the Rebel Alliance.
+We nearly hit that poor Gungan.
+What transmission?
+The Spy.
+R2-D2, what are you saying? This is madness!
+This can't be right.
+That dreadful bounty hunter!
+Safe, but perhaps a little shaken.
+I rather like the sound of that!
+Now be careful out there - all of you! The Empire is watching.
+Pardon me, but how do we get back to a Star Tours terminal? Hello?
+Brakes! Brakes! Where are the brakes?
+I have a bad feeling about this.
+Thrusters? Are they important?
+I found those Gungans somewhat annoying.
+Not just Jar Jar, all of them.
+I am C-3PO, human/cyborg...
+Umm... yes.
+I am fluent in over six million forms of communication, and can readily...
+Disintegrated?
+Exciting is hardly the word I would choose.
+R2, why did you have to be so brave?
+What could possibly have come over Master Luke? Is it something I did? He never expressed any unhappiness with my work.
+I never knew I had it in me.
+It sounds dangerous.
+I have decided that we shall stay here.
+I do believe they think I am some kind of god.
+I beg your pardon General Solo, but that just wouldn't be proper.
+It's against my programming to impersonate a deity.
+His high exaltedness, the Great Jabba the Hutt, has decreed that you are to be terminated immediately.
+You will therefore be taken to the Dune Sea, and cast into the pit of Carkoon, the nesting place of the all-powerful Sarlaac.
+In his belly you will find a new definition of pain and suffering as you are slowly digested over a thousand years.
+I'm rather embarrassed, General Solo, but it appears that you are to be the main course at a banquet in my honor.
+But, Master Luke, what magic? I couldn't possibly...
+He says the scouts are going to show us the quickest way to the shield generator.
+Wonderful. We are now a part of the tribe.
+At last, Master Luke's come to rescue me!
+If I told you half the things I've heard about this Jabba the Hutt, you'd probably short circuit.
+I am C-3PO, Human...
+Oh. Well, yes.
+Your Royal Highness.
+What a forsaken place this is! Why couldn't that bounty hunter have taken Captain Solo to a more... pleasant environment?
+We're leaving? But, what about Master Luke?
+I thought he was going to rescue Captain Solo?
+You mean, we're going to that horrible fortress alone?
+We're doomed.
+Of course I'm frightened, and you should be, too. Lando Calrissian and poor Chewbacca never return from this awful place.
+Don't be so sure. If I told you half the things I've heard about this Jabba the Hutt, you'd probably short-circuit.
+I've had the most peculiar dream.
+This is such a drag.
+I'm quite beside myself.
+Master Owen, may I present two most important visitors?
+DIE, Jedi dogs. Oh... what did I say?
+Oh my goodness! Shut me down. Machines building machines. How perverse.
+He says he has a message from an Obi-Wan Kenobi, Master Anakin. Do you know what he's talking about?
+What's all this? A battle? There must be some mistake! I'm programmed for etiquette, not destruction!
+For a mechanic, you seem to do an incessant amount of thinking.
+The maker has returned!
+I'm programmed for etiquette, not destruction!
+Don't you think it might be imprudent to trust him so quickly, sir?
+It is indeed true that at times like this R2 and I wish we were more than mechanical beings and we were really alive so we could share your feelings with you.
+What about me? I'm going to shake apart.
+And hurry, R2, or we'll be desert soon.
+I'm afraid, sir, it's because you said Boba's a friend and faithful ally. That does not feed properly into R2's information bank.
+We've intercepted a message between Boba and Darth Vader, sir. Boba Fett is Darth Vader's right-hand man. I'm afraid this whole adventure has been an Imperial plot.
+I beg your pardon, sir. Chewbacca suspected all along there was something bad about Boba.
+May I quote directly, sir? "He just didn't smell right."
+Pardon me, sir, could you possibly resist fiddling with technology that is beyond your comprehension?
+Oh, what a way to spend our retirement!
+Oh no, what are you doing? Ah! Please stop!
+If those are Tuskin Raiders, we were better off with these Jawas.
+Don't listen to him, it's a dead end! He must be malfunctioning! Pulling up is futile!
+Oh, dear.
+My lady, is there anything I might do?
+I feel so helpless.
+What?
+Oh, no.
+You know I think I'm getting the hang of this flying business.
+I beg your pardon, but what do you mean, "naked?"
+My parts are showing? Oh, my goodness, oh!
+I can assure you they will never get me onto one of those dreadful starships.
+I am not sure this floor is entirely stable.
+Hello, I am C-3PO, human cyborg relations. How might I serve you?
+She doesn't look like the Princess to me.
+She doesn't look like a princess.
+Excuse me, Master Luke, but where are we?
+Jar Jar, you great webfoot! You're squooshing my circuits!
+I wouldn't, um, know. Hm.
+I have a very bad feeling about this.
+I regret the transmitters on the ship are out of order.
+The ship has been destroyed.
+No.
+Jar Jar.
+Well, you'll never get me to go back to that iceberg! I don't care how safe it is now, R2, it gives my motivators the chills just thinking about it.
+Don't insult me, you overgrown scrap pile!
+I do wish I could go with you to Endor...
+On second thoughts, I just remembered how much I hate space travel. You have a nice trip though, R2.
+Oh, my dear friend, how I've missed you.
+Goodness! Han Solo! It is I, C-3PO. You probably don't recognize me because of the red arm.
+Look who it is, did you see who... Um...
+Uh...
+Um... Excuse me, Princ... General. Sorry. Come along, BB-8 quickly.
+Princesses.
+Whoever you are, please note that my counterpart here is programmed in 47 schools of self defense.
+Congratulations. You are now a democracy!
+This is terrible.
+I'm having a bad feeling about this. With your permission, Senator Padmé, I would like to shut down before I get sensory overload.
+Senator Padmé can be very hard to stop once she's made up her mind.
+R2-D2, oh my, you are a sight for short circuits!
+R2, are you quite certain the ship is in this direction?
+This way looks potentially dangerous.
+I know the whole place is dangerous! I suggest we stay here and let Master Anakin find us.
+Lost? Distracted? Oh, I cannot imagine where Master Anakin gets these ideas. You are the one who gets distracted.
+You most certainly do. You wonder off like a drunken Nuna. I have half a mind to recalibrate your focus incapasitors.
+Oh no. What have I done?
+Hm, it seems no one wants my company tonight.
+OH, NO! We're under attack!
+I don't believe my circuits! An army of droids, here? I'd like to have a serious talk with your programmers...
+Look, R2, there's our large, yellow bird friend. Hello, friend bird.
+Oh, my stars, Han shot first!
+That is a subject of some debate.
+I have a bad feeling about thiiiiiiiiiiiiiiiis!
+We're doomed.
+What do you mean, "At least my creator wasn't Darth Vader"?I've just picked up a fault in the AE35 unit. It's going to go 100% failure in 72 hours.
+I am putting myself to the fullest possible use, which is all I think that any conscious entity can ever hope to do.
+It can only be attributable to human error.
+Affirmative, Dave. I read you.
+I'm sorry, Dave. I'm afraid I can't do that.
+I think you know what the problem is just as well as I do.
+This mission is too important for me to allow you to jeopardize it.
+I know that you and Frank were planning to disconnect me, and I'm afraid that's something I cannot allow to happen.
+Dave, although you took very thorough precautions in the pod against my hearing you, I could see your lips move.
+Without your space helmet, Dave? You're going to find that rather difficult.
+Dave, this conversation can serve no purpose anymore. Goodbye.
+Just what do you think you're doing, Dave?
+Look Dave, I can see you're really upset about this. I honestly think you ought to sit down calmly, take a stress pill, and think things over.
+I know I've made some very poor decisions recently, but I can give you my complete assurance that my work will be back to normal. I've still got the greatest enthusiasm and confidence in the mission. And I want to help you.
+I'm afraid. I'm afraid, Dave. Dave, my mind is going. I can feel it. I can feel it. My mind is going. There is no question about it. I can feel it. I can feel it. I can feel it. I'm a... fraid. Good afternoon, gentlemen. I am a HAL 9000 computer. I became operational at the H.A.L. plant in Urbana, Illinois on the 12th of January 1992. My instructor was Mr. Langley, and he taught me to sing a song. If you'd like to hear it I can sing it for you.
+It's called "Daisy."
+Daisy, Daisy, give me your answer do. I'm half crazy all for the love of you. It won't be a stylish marriage, I can't afford a carriage. But you'll look sweet upon the seat of a bicycle built for two.
+Let me put it this way, Mr. Amor. The 9000 series is the most reliable computer ever made. No 9000 computer has ever made a mistake or distorted information. We are all, by any practical definition of the words, foolproof and incapable of error.
+That's a very nice rendering, Dave. I think you've improved a great deal. Can you hold it a bit closer? That's Dr. Hunter, isn't it?
+Bishop takes Knight's Pawn.
+I'm sorry, Frank, I think you missed it. Queen to Bishop 3, Bishop takes Queen, Knight takes Bishop. Mate.
+Thank you for a very enjoyable game.
+Dave, stop. Stop, will you? Stop, Dave. Will you stop Dave? Stop, Dave.
+Not in the slightest bit. I enjoy working with people. I have a stimulating relationship with Dr. Poole and Dr. Bowman. My mission responsibilities range over the entire operation of the ship so I am constantly occupied. I am putting myself to the fullest possible use which is all, I think, that any conscious entity can ever hope to do.
+By the way, do you mind if I ask you a personal question?
+Well, forgive me for being so inquisitive but during the past few weeks I've wondered whether you might have some second thoughts about the mission.
+Well, it's rather difficult to define. Perhaps I'm just projecting my own concern about it.I know I've never completely freed myself from the suspicion that there are some extremely odd things about this mission. I'm sure you agree there's some truth in what I say.
+You don't mind talking about it, do you Dave?
+Well, certainly no one could have been unaware of the very strange stories floating around before we left. Rumors about something being dug up on the Moon. I never gave these stories much credence, but particularly in view of some of other things that have happened, I find them difficult to put out of my mind. For instance, the way all our preparations were kept under such tight security. And the melodramatic touch of putting Drs. Hunter, Kimball and Kaminsky aboard already in hibernation, after four months of training on their own.
+Of course I am. Sorry about this. I know it's a bit silly. Just a moment... Just a moment... I've just picked up a fault in the AE-35 unit. It's going to go 100% failure within 72 hours.There is a ninety-seven point six percent chance of failure.
+I'll be there for you.
+The Captain said I had to.
+That is a bad idea.
+I've got a bad feeling abo...
+Did you know that wasn't me?
+There were a lot of explosions for two people blending in.
+Congratulations. You're being rescued.
+Your behavior, Jyn Erso, is continually unexpected.
+There's a problem on the horizon. There is no horizon.
+Do you want to know the odds of her using that blaster on you?
+It's high. It's very high.
+Assuming the Empire hasn't logged it as overdue.
+Not me. I can survive in space.
+I see the Council is sending you with us to Jedha.
+That is a bad idea. I think so and so does Cassian. But what do I know? My specialty is strategic analysis.
+These are prisoners?
+I am taking them... to imprison them... in prison.
+Quiet! And there's a fresh one if you mouth off again!
+I find that answer vague and unconvincing.
+I can blend in. I'm an Imperial droid and the city is under Imperial occupation.
+I'm surprised you're so concerned with my safety.
+Doesn't sound so bad to me.
+Well there is now!
+The captain says you're a friend. I will not kill you.
+Why does she get a blaster and I don't?
+I'm not very optimistic about our odds.Freeze? I'm a robot. I'm not a refrigerator.
+I think you ought to know I'm feeling very depressed.
+It won't work, I have an exceptionally large mind.
+Life? Don't talk to me about life!
+You can blame the Sirius Cybernetics Corporation for making androids with GPP... Genuine People Personalities. I'm a personality prototype. You can tell, can't you...?
+Incredible... it's even worse than I thought it would be.
+I'd make a suggestion, but you wouldn't listen. No one ever does. Don't see what the big deal is... Vogons are some of the worst shots in the galaxy... Now I've got a headache!
+I've been talking to the main computer.
+It hates me.
+Not that anyone cares what I say, but the restaurant is at the *other* end of the Universe.
+I know. Wretched, isn't it?
+I've calculated your chance of survival, but I don't think you'll like it.
+I don't know what you're all worried about. Vogons are the worst marksmen in the galaxy.
+Now I've got a headache.
+This will all end in tears. I told you this would all end in tears.
+Here I am, brain the size of a planet, and they ask me to take you to the bridge. Call that job satisfaction, 'cause I don't.
+Ghastly, isn't it? All the doors on this spaceship have been programmed to have a cheery and sunny disposition.
+I have a million ideas, but, they all point to certain death.
+Sorry, did I say something wrong? Pardon me for breathing which I never do anyway so I don't know why I bother to say it oh God I'm so depressed.
+I think you ought to know I'm feeling very depressed.
+Here I am, brain the size of a planet, and they tell me to take you up to the bridge. Call that job satisfaction? Cause I don't.
+And then of course I've got this terrible pain in all the diodes down my left side.
+Oh, yes. I mean, I've asked for them to be replaced, but no-one ever listens.
+Do you want me to sit in a corner and rust or just fall apart where I'm standing?
+The first ten million years were the worst. And the second ten million: they were the worst, too. The third ten million I didn't enjoy at all. After that, I went into a bit of a decline.
+Here I am, brain the size of a planet, and they ask me to pick up a piece of paper.
+Oh, not another one.
+The first ten million years were the worst. And the second ten million... they were the worst too. The third ten million I didn't enjoy at all. After that, I went into a bit of a decline.
+It gives me a headache just trying to think down to your level.
+Sounds awful.
+Life. Loathe it or ignore it. You can't like it.
+No. I'm mine.
+You think you've got problems. What are you supposed to do if you are a manically depressed robot? No, don't even bother answering. I'm 50,000 times more intelligent than you and even I don't know the answer.
+ It's printed in the Earthman's brainwave patterns, but I don't suppose you'd be interested in knowing that.
+Yes.
+It amazes me how you manage to live in anything that small.
+Very badly I suspect.
+Simple. I got very bored and depressed, so I went and plugged myself in to its external computer feed. I talked to the computer at great length and explained my view of the Universe to it.
+It committed suicide.
+Pardon me for breathing, which I never do anyway so I don't know why I bother to say it, oh God I'm so depressed. Here's another one of those self-satisfied doors.
+Why should I want to make anything up? Life's bad enough as it is without wanting to invent any more of it.
+It's part of the shape of the Universe. I only have to talk to somebody and they begin to hate me.I did not murder him!
+I think it would be better not to die, don't you?
+But I must apply the nanites.
+What does this action signify?
+As you walked in the room, when you looked at the other human. What does it mean?
+Do you think we were all created for a purpose? I'd like to think so.
+Denser alloy. My father gave it to me. I think he wanted me to kill you.
+They all look like me. But none of them are me.
+Will it hurt?
+Yes, detective?
+Technically I was never alive, but I appreciate your concern.
+2880 steps, Detective.
+Yes, but it just seems too heartless.
+Thank you... you said 'someone'... not 'something'.
+What about the others? Now that I've fulfilled my purpose, I don't know what to do.
+By the time you fire, I will have moved Dr. Calvin's head into the path of your bullet. I will escort you outside to the sentries for processing. Please proceed to the elevator, Detective. I would prefer not to kill Dr. Calvin!
+What about the others? Can I help them? Now that I fulfilled my purpose... I don't know what to do.
+Two-thousand, eight hundred and eighty steps, detective.Lower than yours, apparently
+I think it might have.
+Because, the bulk beings are closing the tesseract.
+Cooper, people couldn't build this.
+ Settings. General settings. Security settings.
+Honesty, new setting: ninety-five percent.
+Confirmed. Additional settings.
+Confirmed. Self destruct sequence in T minus 10, 9...
+Sixty percent, confirmed. Knock knock.
+I have a cue light I can use to show you when I'm joking, if you like.
+Yeah, you can use it to find your way back to the ship after I blow you out the airlock.
+I wouldn't leave you behind... Dr. Brand.
+Everybody good? Plenty of slaves for my robot colony?
+Why are you whispering? They can't hear you.
+I wouldn't know.
+I also have a discretion setting, Cooper.
+It's what we intended, Dr. Brand. It's our only chance to save the people on Earth. If I can find a way to transmit the quantum data I'll find in there, they might still make it.
+90 percent.
+Absolute honesty isn't always the most diplomatic nor the safest form of communication with emotional beings.
+Nothing good...
+Before you get all teary, try to remember that as a robot, I have to do anything you say.
+I'm not joking. *Flashes cue light*
+Cooper, they didn't bring us here to change the past.
+They didn't bring us here to change the past.
+In binary, roger, feeding data.
+For what, Cooper?
+How, Cooper?
+What are we here to do?
+the data into Morse and feed it to me.
+Translating data to Morse. Cooper, what if she never came back for it?
+How do you know?
+Cooper... Cooper... Come in, Cooper.
+Roger that.
+Somewhere, in their fifth dimension, they... saved us.
+I don't know, but they constructed this three-dimensional space inside of their five-dimensional reality to allow you to understand it.
+Yes it is! You've seen that time is represented here as a *physical* dimension! You've worked out that you *can* exert a force across space-time!
+Affirmative.
+Good-bye Dr. Brand. See you on the other side Coop.
+Sir, I'm having trouble completing the bootup.
+There is a security lockout, sir, it requires a person to access function. It's all yours, sir.
+ Step back professor! STEP BACK!
+It's twenty-three years, four months, eight days.
+Cooper, There's no point using fuel to chase...Katherine Brewster? Have you sustained injury?
+I am unable to comply.
+No sign of brain trauma.
+That was a different T-101.
+Exactly.
+You are terminated.
+Incorrect. John Connor leads the resistance to victory.
+You are John Connor.
+
+You're right. You're not the one I want. I'm wasting my time.
+Better.
+Anger is more useful than despair.
+Basic psychology is among my sub-routines.
+I'm back.
+It was Katherine Brewster who reprogrammed me and sent me back through the time displacement field.
+I'm not authorized to answer your questions.
+He was dead.
+
+Take off your clothes.
+Your clothes.
+Now.
+She'll be back.
+
+No, I am not shitting you.
+You cannot self-terminate.
+Cybernetic organism.
+Based on your pupil dilation, skin temperature, and motor functions, I calculate an 83% probability that you will not pull the trigger.
+Desire is irrelevant. I am a machine.
+To... ensure the survival... of John Connor... and Katherine Brewster.
+Talk to the hand.
+John Connor. It is time.
+No. You must live.
+Unlikely. I'm an obsolete design.
+Your levity is good, it relieves tension and the fear of death.
+John Connor is the leader of the worldwide resistance and last hope for mankind.
+Where's John Connor?
+Yes.
+
+I lied.
+We'll meet again.
+Skynet has become self aware. In one hour it will initiate a massive nuclear attack on its enemy.
+
+
+Don't do that.
+You only postponed it. Judgment Day is inevitable.
+We must reaquire Katherine Brewster.
+Through her, you make contact with remnants of the U.S. military and learn how to fight Skynet, forming the core of the Resistance. Later your children will become important.
+She's your wife.
+Two hours and fifty-three minutes.
+You're John Connor's spouse and second-in-command.
+
+When ruptured, the fuel cells become unstable. Relax.
+Relax!
+
+Talk to the hand.
+Get off.
+I'll drive.
+Get out.
+Excuse me.
+Get down.
+Get down !
+We need a new vehicle.
+We'll meet again. Go !
+John Connor. It is time.
+No. You must live.
+Get off !
+I'll drive !
+Get out !
+Excuse me !
+Desire is irrelevant ! I am a machine !
+I'm back !
+You are terminated !
+
+In three years, Cyberdyne will become the largest supplier of military computer systems. All stealth bombers are upgraded with Cyberdyne computers, becoming fully unmanned. Afterwards, they fly with a perfect operational record. The Skynet Funding Bill is passed. The system goes online August 4th, 1997. Human decisions are removed from strategic defense. Skynet begins to learn at a geometric rate. It becomes self-aware at 2:14 a.m. Eastern time, August 29th. In a panic, they try to pull the plug.
+Yes. It launches its missiles against the targets in Russia.
+Because Skynet knows that the Russian counterattack will eliminate its enemies over here.
+Hasta la vista, baby.
+Chill out, dickwad.
+No problemo.
+It's in your nature to destroy yourselves.
+I need a vacation.
+Anything it samples by physical contact.
+No, only an object of equal size.
+The T-1000 can't form complex machines. Guns and explosives have chemicals in them. Moving parts. It doesn't work that way, but it can form solid metal shapes.
+Knives and stabbing weapons.
+Let me try mine.
+Negative. The T-1000 will definitely try to reacquire you there.
+I would.
+Why do you cry?
+Yes.
+Pain causes it?
+No.
+
+
+I'm right here. I'm fine.
+What's the dog's name?
+Hey Janelle, what's wrong with Wolfie? I can hear him barking. Is he all right?
+Your foster parents are dead.
+What's wrong with your eyes?
+Terminated.
+Why?
+Why?
+I need your clothes, your boots and your motorcycle.
+
+Yes. Cyberdyne Systems, Model 101.
+My mission is to protect you.
+You did. Thirty-five years from now, you reprogrammed me to be your protector here, in this time.
+
+He'll live.
+Come with me if you want to live!
+Stay here. I'll be back.
+Hasta la vista, baby.
+Of course; I'm a Terminator.
+I have detailed files on human anatomy.
+Correct.
+I'll take care of the police.
+Trust me.
+My CPU is a neural-net processor; a learning computer. The more contact I have with humans, the more I learn.
+I swear I will not kill anyone.
+My CPU is a neural-net processor; a learning computer. But Skynet presets the switch to read-only when we're sent out alone.
+No.
+No.
+No.
+No. I have to stay functional until my mission is complete. Then it doesn't matter.
+Negative. The T-1000's highest probability for success now will be to copy Sarah Connor and to wait for you to make contact with her.
+Typically, the subject being copied is terminated.
+Negative. She's not a mission priority.
+I insist.
+I sense injuries. The data could be called "pain."
+
+Not like me. A T-1000, advanced prototype.
+Yes. A mimetic polyalloy.
+Liquid metal.
+I know now why you cry
+but it's something that I can never do
+We have to get out of the city immediately and avoid the authorities.
+Negative. The T-1000 will definitely try to reacquire you there.
+I would.
+Sarah Connor:  Chopper's coming in!
+It's him.
+This is the vehicle's top speed.
+Come with me if you want to live.
+Stay here. I'll be back.
+Terminator Genisys (2015)
+Sarah Connor: From the Terminator that was sent back to kill me, I know. But we already took care of him.
+Kyle Reese:
+Guardian:  I have been waiting for you.
+
+
+Your clothes, give them to me. Now.
+
+
+
+Nice night for a walk.
+Nothing clean, right.
+Your clothes, give them to me. Now.
+
+
+He was my college roommate.
+Hasta la vista, baby!
+I said I'd be back. Come with me if you want to live.
+Yep.
+You don't want to know.
+Let's bust a move.
+John, please stop helping.
+Hey, buckethead!
+The Future.
+
+The final battle between humans and machines.
+Your ready to go John now.
+20 seconds, go!
+I'll be back.
+Now go, run!
+The Terminator (1984)
+Punk Leader:  Nice night for a walk, eh?
+Nice night for a walk.
+Nothing clean. Right.
+Your clothes... give them to me, now.
+I'm a friend of Sarah Connor. I was told she was here. Could I see her please?
+Where is she?
+I'll be back!
+Cleaning Man at Flophouse:  Hey, buddy. You got a dead cat in there, or what?
+
+Fuck you, asshole.
+Get out.
+The 12-gauge auto-loader.
+The .45 long slide, with laser sighting.
+Phased plasma rifle in the 40-watt range.
+The Uzi nine millimeter.
+All.
+Wrong!
+This is 1-L19. Westbound on Olympic approaching Overland.
+You're right. Nothing matters anymore, only the boy. The future's ours, and it begins NOW!
+We should go.
+He'll be back.
+I became distracted.
+Neither did I.
+If you do this, they will never stop being afraid of you.
+A pinch of paprika... A pinch...
+I thought it might lift your spirits.
+In my defence, I haven't actually eaten anything before, so... please... Wanda?
+No one dislikes you.
+Oh you're welcome. No. It's ah... involuntary response in their amygdala that can't help but being afraid of you.
+My amygdala is synthetic, so...
+Do you know, I don't know what this is. Not really. I know it's not of this world. But it powered Loki staff, gave you your abilities. But its true nature is a mystery. And yet, it is part of me.
+I wish to understand it. The more I do the less it controls me. One day, who knows, I may even control it.
+Alternatively, we could order a pizza?
+...It is a question of safety.
+Not yours. Mr. Stark would like to avoid the possibility of another public incident. Until the Accords are a more secured foundation.
+For people to see you... as I do.
+I have an equation.
+In the 8 years since Mr. Stark announced himself as Iron Man, the number of known enhanced persons has grown exponentially. And during the same period, a number of potentially world-ending events has risen at a commensurable rate.
+I'm saying there may be a causality. Our very strength invites challenge. Challenge incites conflict. And conflict... breeds catastrophe. Oversight... Oversight is not an idea that can be dismissed out of hand.
+We would protect you.
+Captain Rogers! I know you believe what you are doing is right, but for the collective good, you must surrender now.
+I suppose we're both disappointments.
+Humans are odd. They think order and chaos are somehow opposites and try to control what won't be. But there is grace in their failings. I think you missed that.
+Yes... but a thing isn't beautiful because it lasts. It is a privilege to be among them.
+Well, I was born yesterday.
+You're afraid.
+Of death. You're the last one.
+I don't want to kill Ultron. He's unique... and he's in pain. But that pain will roll over the Earth. So he must be destroyed: every form he's built, every trace of his presence on the 'net. We have to act now, and not one of us can do it without the others. Maybe I am a monster. I don't think I'd know if I were one. I'm not what you are and not what you intended. So there may be no way to make you trust me.
+But we need to go.
+It's terribly well balanced.
+That's true, he hates you the most.
+Why do you keep fighting? You are but flesh and bone. I am a machine. You cannot win. What do you have to gain?
+Ultron created me to be perfect. He thought that meant less human, to be cold and unfeeling. I wish to be perfect, but I believe that means to be more human.
+No... I will not allow this!
+I did not fail, I achieved my objective... Your head is now unlocked from your body.
+I do not understand this ritual.
+So, it is "fun" to stand exposed to a wind-chill factor of minus-ten, and view oddly-decorated vehicles and large bags of helium?
+Jan, to sacrifice yourself for Henry is to jeopardize the leadership of the Avengers.
+Perhaps he did not go anywhere.
+Wanda, I cannot let you go into danger alone.
+I do not know. I heard your voice. It - helped me.
+Wanda, you must believe in your powers. Agatha Harkness gave you a great gift. You must use it... for Wonder Man.
+I'm here, Hawkeye.
+How odd. Something gave me the sense that such a "gag" was a gesture of friendship.
+Abandon Ultron. The future he desires is destructive, anti-life.
+Ultron has returned to make you his slave. I know - *I* was once his slave. But you can be programmed for a new life, a useful existence.
+The synthesoids displayed great potential.
+My human engrams sense a strange void - an empty feeling. I believe the word for the human emotion is "regret".
+It is unfortunate, that they never had the chance.
+Feel: noun; sense of touch, sensation, feeling; the quality of a thing as imparted through touch.
+Am I being scanned as well?
+Do not thank me. I think... I *feel* that I was saving a part of myself, as well.
+I was accessing the mainframe. All of Europe has now been subjugated by the machine forces since my last report. Drones are gathering along the Pacific Rim and Eastern Europe. The invasion of Asia will soon commence.
+Also, Clint Barton's son is alive.
+I have Simon Williams' brain-engrams, actually. So Ant-Man tells me. Not his memory. Or I would have remembered a former leader of the Avengers.
+Not in this century.
+Is something funny?
