@@ -1,3 +1,4 @@
+import ast
 import tweepy
 import markovify
 import random
@@ -15,8 +16,8 @@ ACCESS_TOKEN = os.environ.get("ACCESS_TOKEN")
 ACCESS_TOKEN_SECRET = os.environ.get("ACCESS_TOKEN_SECRET")
 BUCKET = os.environ.get("BUCKET")
 KEY = os.environ.get("KEY")
-PROB_TWEET = float(os.environ.get("PROB_TWEET", "0.1"))
 CLOUDWATCH_EVENT = os.environ.get("CLOUDWATCH_EVENT")
+SLEEP_HOURS = ast.literal_eval(os.environ.get("SLEEP_HOURS", "[23, 0, 1, 2, 3, 4, 5, 6]"))
 DAY = 60 * 60 * 24
 HOUR = 60 * 60
 
@@ -26,7 +27,7 @@ logger.setLevel(logging.INFO)
 def tweet_something(status):
     auth = tweepy.OAuthHandler(CONSUMER_KEY, CONSUMER_SECRET)
     access = auth.set_access_token(ACCESS_TOKEN, ACCESS_TOKEN_SECRET)
-    logger.info("Acces to twitter API.")
+    logger.info("Access to twitter API.")
     api = tweepy.API(auth)
     api.update_status(status)
     api = None
@@ -57,10 +58,13 @@ def set_next_execution(name, seconds):
 
 def lambda_handler(event, context):
     action = "sleep"
-    logger.info('Probablilty of tweeting: %s' % PROB_TWEET)
-    if(random.random() < PROB_TWEET):
+    hour = datetime.now().hour
+
+    if not hour in SLEEP_HOURS:
         do_action(get_corpus_from_s3())
         action = "tweet"
+    else:
+        logger.info('Current hour %s is in sleeping hours.' % hour)
 
     logger.info("Action performed: %s" % action)
 
